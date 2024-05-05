@@ -1,0 +1,12 @@
+{
+  "name": "begin",
+  "version": "1.0.0",
+  "description": "review all the things about nodejs ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris",
+  "license": "MIT"
+}
